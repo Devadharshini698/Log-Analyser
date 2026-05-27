@@ -1,0 +1,7 @@
+{
+  "<SIM_TIME> UVM_INFO  tb_axi4_interconnect.env [REPORT] UVM_FATAL  : 5": {
+    "status": "fixed",
+    "fixed_on": "2026-03-27T09:18:56.268751",
+    "fixed_run_id": "ui_run"
+  }
+}
